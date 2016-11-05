@@ -1,0 +1,11 @@
+# Rodrigo Luiz Barbosa
+# 05/11/2016
+# GIT
+
+// Volta o arquivo no versionador
+git checkout <arquivo>
+
+// Volta o pacote commitado no versionador
+git checkout <ID do commit>
+
+OBS: A reversão entra no log do versionador.
