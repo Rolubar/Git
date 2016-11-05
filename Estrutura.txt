@@ -1,0 +1,18 @@
+# Rodrigo Luiz Barbosa
+# 05/11/2016
+# GIT
+
+Estrutura do GIT
+
+1 - WORKING DIRECTORY
+// Ambiente de trabalho. (Arquivos sendo alterados e criados)
+git add (git add . // Insere toda a lista de arquivos)
+
+2 - STAGING AREA
+// Cópia dos arquivos que foram alterados. (Prepara a versão)
+git commit
+
+3 - REPOSITORY
+// Aplica a versão no repositorio. (Aplica todos os arquivos e fecha a versão)
+
+

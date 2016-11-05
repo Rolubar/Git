@@ -1,0 +1,34 @@
+# Rodrigo Luiz Barbosa
+# 05/11/2016
+# GIT
+
+// Controle de versão.
+// Criar uma pasta e para o projeto e iniciar o versionamento. (Pasta "Projeto")
+
+// Entre na pasta do projeto.
+// Criando os arquivos GIT na pasta "Projeto"
+git init
+
+// Verificando o status dos arquivos.
+git status
+
+* OBS: Para remover o versionamento do git na pasta, remova a pasta oculta ".git".
+
+// Remover um arquivo já adicionado a STAGING AREA ?
+git rm --cache <arquivo>
+
+// Ignorar um arquivo no versionamento.
+// Criar um arquivo chamado 
+.gitignore (Inserir o nome do arquivo no documento. <arquivo>.<tipo>)
+
+// Insere os arquivos para o controle e versão.
+git add (git add . // Insere toda a lista de arquivos)
+
+// Commitar as alterações e gerar a versão.
+git commit -m "First commit"
+
+// Informações sobre o commit.
+git log
+
+// Verificar o que foi alterado.
+git show

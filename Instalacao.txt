@@ -1,0 +1,15 @@
+# Rodrigo Luiz Barbosa
+# 05/11/2016
+# GIT
+
+// Instalação do GIT.
+
+// No Windows 
+Download -> https://git-scm.com/download/win
+
+// Configuração da conta no GIT
+git config --global user.name "Fulano de tal"
+git config --global user.email "fulanodetal@gmail.com"
+
+// Verificar a chave do usuario.
+git config --list
